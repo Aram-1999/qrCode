@@ -6,12 +6,13 @@ body {
     display: flex;
     background-color:hsl(212, 45%, 89%);
     justify-content: center;
-    align-items: center;   
+    align-items: center;
+    font-size: 16px;   
 }
 
 
 .attribution { 
-    font-size: 11px; 
+    font-size: 0.6875em; 
     text-align: center; 
 }
 .attribution a { 
@@ -51,13 +52,13 @@ h1 {
     color: hsl(218, 44%, 22%);
     font-family: "Outfit", sans-serif;
     font-weight: 800;
-    font-size: 22px;
+    font-size: 1.375em;
     text-align: center;
 }
 
 p {
     color: hsl(216, 15%, 48%);
-    font-size: 15px;
+    font-size: 0.9375em;
     font-family: "Outfit", sans-serif;
     font-weight: 400;
     text-align: center;
